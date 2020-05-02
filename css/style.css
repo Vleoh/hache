@@ -1,4 +1,6 @@
 #container {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: brown;
+    padding:1em;
+    width:70%
 }
